@@ -1,4 +1,4 @@
-class Characters extends World{
+class Characters extends Stage{
     constructor(x,y){
      super(x,y,50,60);
      this.image1 = loadImage("sprites/Run.png");
